@@ -13,4 +13,4 @@ Segmenting clouds from sky images using watershedding
     
 ## Results
 
-![Results](https://github.com/19tchoubou/CloudSegmentation/blob/main/data/segmentation.png?raw=true)
+![Results](https://github.com/19tchoubou/CloudSegmentation/blob/main/data/segmentation.PNG?raw=true)
