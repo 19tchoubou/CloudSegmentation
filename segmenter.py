@@ -168,7 +168,7 @@ class Segmenter():
         sun_mask = np.zeros_like(r_b_img)
         markers = np.zeros_like(r_b_img)
 
-        self._sun_segmentation(sun_mask, sum_image, sun_thres = 2.3, sun_val=3)
+        self._sun_segmentation(sun_mask, sum_image, sun_thres = 2.95, sun_val=3)
 
         relative_dist, has_sun = self._dist_to_sun(sun_mask)
 
