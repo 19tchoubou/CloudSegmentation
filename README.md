@@ -4,7 +4,7 @@ Segmenting clouds from sky images using watershedding
 ## How to use this code
 
     import numpy as np
-    from segmenter import segmenter
+    from segmenter import Segmenter
     from PIL import Image
   
     image_to_segment = np.array(Image.open('data/fisheye.jpg'))/255
