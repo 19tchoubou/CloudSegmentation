@@ -1,5 +1,5 @@
 # CloudSegmentation
-Segmenting clouds from sky images using watershedding
+Segmenting clouds from sky images using watershedding and Kullback-Leibler divergence.
 
 ## How to use this code
 
